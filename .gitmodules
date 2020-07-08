@@ -1,0 +1,4 @@
+[submodule "SV-ta/Project-Report-XLS-PDF"]
+	path = SV-ta/Project-Report-XLS-PDF
+	url = git@github.com:SV-ta/Project-Report-XLS-PDF.git
+	branch = master
